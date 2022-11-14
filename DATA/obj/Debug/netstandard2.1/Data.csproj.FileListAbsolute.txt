@@ -1,0 +1,40 @@
+C:\Users\לירון רגב\Desktop\AlphaBody\New folder\התחלה מהפרויקט אמצע\AlphaBodyFirst\Data\bin\Debug\netstandard2.1\Data.deps.json
+C:\Users\לירון רגב\Desktop\AlphaBody\New folder\התחלה מהפרויקט אמצע\AlphaBodyFirst\Data\bin\Debug\netstandard2.1\Data.dll
+C:\Users\לירון רגב\Desktop\AlphaBody\New folder\התחלה מהפרויקט אמצע\AlphaBodyFirst\Data\bin\Debug\netstandard2.1\Data.pdb
+C:\Users\לירון רגב\Desktop\AlphaBody\New folder\התחלה מהפרויקט אמצע\AlphaBodyFirst\Data\obj\Debug\netstandard2.1\Data.csproj.AssemblyReference.cache
+C:\Users\לירון רגב\Desktop\AlphaBody\New folder\התחלה מהפרויקט אמצע\AlphaBodyFirst\Data\obj\Debug\netstandard2.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\לירון רגב\Desktop\AlphaBody\New folder\התחלה מהפרויקט אמצע\AlphaBodyFirst\Data\obj\Debug\netstandard2.1\Data.AssemblyInfoInputs.cache
+C:\Users\לירון רגב\Desktop\AlphaBody\New folder\התחלה מהפרויקט אמצע\AlphaBodyFirst\Data\obj\Debug\netstandard2.1\Data.AssemblyInfo.cs
+C:\Users\לירון רגב\Desktop\AlphaBody\New folder\התחלה מהפרויקט אמצע\AlphaBodyFirst\Data\obj\Debug\netstandard2.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\לירון רגב\Desktop\AlphaBody\New folder\התחלה מהפרויקט אמצע\AlphaBodyFirst\Data\obj\Debug\netstandard2.1\Data.dll
+C:\Users\לירון רגב\Desktop\AlphaBody\New folder\התחלה מהפרויקט אמצע\AlphaBodyFirst\Data\obj\Debug\netstandard2.1\Data.pdb
+C:\AlphaBodyAPI\AlphaBodyAPI\DATA\bin\Debug\netstandard2.1\Data.deps.json
+C:\AlphaBodyAPI\AlphaBodyAPI\DATA\bin\Debug\netstandard2.1\Data.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\DATA\bin\Debug\netstandard2.1\Data.pdb
+C:\AlphaBodyAPI\AlphaBodyAPI\DATA\obj\Debug\netstandard2.1\Data.csproj.AssemblyReference.cache
+C:\AlphaBodyAPI\AlphaBodyAPI\DATA\obj\Debug\netstandard2.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlphaBodyAPI\AlphaBodyAPI\DATA\obj\Debug\netstandard2.1\Data.AssemblyInfoInputs.cache
+C:\AlphaBodyAPI\AlphaBodyAPI\DATA\obj\Debug\netstandard2.1\Data.AssemblyInfo.cs
+C:\AlphaBodyAPI\AlphaBodyAPI\DATA\obj\Debug\netstandard2.1\Data.csproj.CoreCompileInputs.cache
+C:\AlphaBodyAPI\AlphaBodyAPI\DATA\obj\Debug\netstandard2.1\Data.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\DATA\obj\Debug\netstandard2.1\Data.pdb
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DATA\bin\Debug\netstandard2.1\Data.deps.json
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DATA\bin\Debug\netstandard2.1\Data.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DATA\bin\Debug\netstandard2.1\Data.pdb
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DATA\obj\Debug\netstandard2.1\Data.csproj.AssemblyReference.cache
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DATA\obj\Debug\netstandard2.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DATA\obj\Debug\netstandard2.1\Data.AssemblyInfoInputs.cache
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DATA\obj\Debug\netstandard2.1\Data.AssemblyInfo.cs
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DATA\obj\Debug\netstandard2.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DATA\obj\Debug\netstandard2.1\Data.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DATA\obj\Debug\netstandard2.1\Data.pdb
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DATA\bin\Debug\netstandard2.1\Data.deps.json
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DATA\bin\Debug\netstandard2.1\Data.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DATA\bin\Debug\netstandard2.1\Data.pdb
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DATA\obj\Debug\netstandard2.1\Data.csproj.AssemblyReference.cache
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DATA\obj\Debug\netstandard2.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DATA\obj\Debug\netstandard2.1\Data.AssemblyInfoInputs.cache
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DATA\obj\Debug\netstandard2.1\Data.AssemblyInfo.cs
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DATA\obj\Debug\netstandard2.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DATA\obj\Debug\netstandard2.1\Data.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DATA\obj\Debug\netstandard2.1\Data.pdb

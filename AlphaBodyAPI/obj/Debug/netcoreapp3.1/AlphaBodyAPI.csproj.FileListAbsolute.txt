@@ -1,0 +1,218 @@
+C:\Users\לירון רגב\Desktop\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\לירון רגב\Desktop\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\לירון רגב\Desktop\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.exe
+C:\Users\לירון רגב\Desktop\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.deps.json
+C:\Users\לירון רגב\Desktop\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.runtimeconfig.json
+C:\Users\לירון רגב\Desktop\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.runtimeconfig.dev.json
+C:\Users\לירון רגב\Desktop\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.dll
+C:\Users\לירון רגב\Desktop\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.pdb
+C:\Users\לירון רגב\Desktop\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.csproj.AssemblyReference.cache
+C:\Users\לירון רגב\Desktop\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\לירון רגב\Desktop\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.AssemblyInfoInputs.cache
+C:\Users\לירון רגב\Desktop\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.AssemblyInfo.cs
+C:\Users\לירון רגב\Desktop\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.csproj.CoreCompileInputs.cache
+C:\Users\לירון רגב\Desktop\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\לירון רגב\Desktop\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\staticwebassets\AlphaBodyAPI.StaticWebAssets.Manifest.cache
+C:\Users\לירון רגב\Desktop\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\staticwebassets\AlphaBodyAPI.StaticWebAssets.xml
+C:\Users\לירון רגב\Desktop\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\AlphaBodyAPI.styles.css
+C:\Users\לירון רגב\Desktop\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.RazorTargetAssemblyInfo.cache
+C:\Users\לירון רגב\Desktop\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.dll
+C:\Users\לירון רגב\Desktop\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.pdb
+C:\Users\לירון רגב\Desktop\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.genruntimeconfig.cache
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.csproj.AssemblyReference.cache
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.AssemblyInfoInputs.cache
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.AssemblyInfo.cs
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.csproj.CoreCompileInputs.cache
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.pdb
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.exe
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.deps.json
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.runtimeconfig.json
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.runtimeconfig.dev.json
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.pdb
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\staticwebassets\AlphaBodyAPI.StaticWebAssets.Manifest.cache
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\staticwebassets\AlphaBodyAPI.StaticWebAssets.xml
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\AlphaBodyAPI.styles.css
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.RazorTargetAssemblyInfo.cache
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.genruntimeconfig.cache
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\BL.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\DAL.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Data.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\BL.pdb
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Data.pdb
+C:\AlphaBodyAPI\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.csproj.CopyComplete
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.exe
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.deps.json
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.runtimeconfig.json
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.runtimeconfig.dev.json
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.pdb
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.csproj.AssemblyReference.cache
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.AssemblyInfoInputs.cache
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.AssemblyInfo.cs
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.csproj.CoreCompileInputs.cache
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\staticwebassets\AlphaBodyAPI.StaticWebAssets.Manifest.cache
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\staticwebassets\AlphaBodyAPI.StaticWebAssets.xml
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\AlphaBodyAPI.styles.css
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.RazorTargetAssemblyInfo.cache
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.csproj.CopyComplete
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.pdb
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.genruntimeconfig.cache
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.exe
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.deps.json
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.runtimeconfig.json
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.runtimeconfig.dev.json
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\AlphaBodyAPI.pdb
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.csproj.AssemblyReference.cache
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.AssemblyInfoInputs.cache
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.AssemblyInfo.cs
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.csproj.CoreCompileInputs.cache
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\staticwebassets\AlphaBodyAPI.StaticWebAssets.Manifest.cache
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\staticwebassets\AlphaBodyAPI.StaticWebAssets.xml
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\AlphaBodyAPI.styles.css
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.RazorTargetAssemblyInfo.cache
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.csproj.CopyComplete
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.pdb
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\AlphaBodyAPI\obj\Debug\netcoreapp3.1\AlphaBodyAPI.genruntimeconfig.cache

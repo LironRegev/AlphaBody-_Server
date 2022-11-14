@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="1.1.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Migrations\20211125175727_Initial.designer.cs">
+      <DependentUpon>20211125175727_Initial.cs</DependentUpon>
+    </Content>
+    <Content Include="Migrations\20211212145702_GoalDefinition.designer.cs">
+      <DependentUpon>20211212145702_GoalDefinition.cs</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DATA\Data.csproj">
+      <Project>{41cc27e8-1968-433e-b987-f6cddfc02d78}</Project>
+      <Name>Data</Name>
+    </ProjectReference>
+  </ItemGroup>
+ </Project>

@@ -1,0 +1,38 @@
+C:\AlphaBodyAPI\AlphaBodyAPI\DAL\bin\Debug\netstandard2.1\DAL.deps.json
+C:\AlphaBodyAPI\AlphaBodyAPI\DAL\bin\Debug\netstandard2.1\DAL.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\DAL\bin\Debug\netstandard2.1\DAL.pdb
+C:\AlphaBodyAPI\AlphaBodyAPI\DAL\bin\Debug\netstandard2.1\Data.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\DAL\bin\Debug\netstandard2.1\Data.pdb
+C:\AlphaBodyAPI\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlphaBodyAPI\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfoInputs.cache
+C:\AlphaBodyAPI\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfo.cs
+C:\AlphaBodyAPI\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.csproj.CoreCompileInputs.cache
+C:\AlphaBodyAPI\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.dll
+C:\AlphaBodyAPI\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.pdb
+C:\AlphaBodyAPI\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.csproj.AssemblyReference.cache
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DAL\bin\Debug\netstandard2.1\DAL.deps.json
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DAL\bin\Debug\netstandard2.1\DAL.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DAL\bin\Debug\netstandard2.1\DAL.pdb
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DAL\bin\Debug\netstandard2.1\Data.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DAL\bin\Debug\netstandard2.1\Data.pdb
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.csproj.AssemblyReference.cache
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfoInputs.cache
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfo.cs
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.csproj.CopyComplete
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.dll
+C:\Users\לירון רגב\Desktop\פרויקט סוף\API\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.pdb
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DAL\bin\Debug\netstandard2.1\DAL.deps.json
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DAL\bin\Debug\netstandard2.1\DAL.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DAL\bin\Debug\netstandard2.1\DAL.pdb
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DAL\bin\Debug\netstandard2.1\Data.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DAL\bin\Debug\netstandard2.1\Data.pdb
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.csproj.AssemblyReference.cache
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfoInputs.cache
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfo.cs
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.csproj.CopyComplete
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.dll
+C:\Users\לירון רגב\Desktop\AlphaBody-Final\API\AlphaBodyAPI\DAL\obj\Debug\netstandard2.1\DAL.pdb
